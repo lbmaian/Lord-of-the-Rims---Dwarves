@@ -1,8 +1,13 @@
+Source/**/bin
+Source/**/obj
+Source/**/packages
+.idea
+.vs
+.vscode
+*.csproj.user
 
 RimworldModReleaseTool.exe
 About/PublishedFileId.txt
-Source/.idea/.idea.Dwarves/.idea/workspace.xml
-Source/.idea/.idea.Dwarves/.idea/workspace.xml
 Source/DiscordWebhookToken.txt
 updateinfo
 
